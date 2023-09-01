@@ -3,7 +3,7 @@ apellido = "Provati"
 curso = "4°5"
 tarjetan = "123123"
 dinero_en_cuenta = 150
-
+djjdlsakjldasjlkdasjkdsajlk = 150
 def mostrar_menu():
     print("--- MENÚ ---")
     print("a. Datos personales")
